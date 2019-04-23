@@ -1,9 +1,10 @@
 {
-  "name": "example-auth-jwt",
+  "name": "vue-keycloak-auth-jwt",
   "dependencies": {
     "cookieparser": "^0.1.0",
     "js-cookie": "^2.2.0",
-    "nuxt": "latest"
+    "keycloak-js": "^6.0.0",
+    "nuxt": "^2.6.2"
   },
   "scripts": {
     "dev": "nuxt",
